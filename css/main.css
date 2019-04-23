@@ -1,9 +1,11 @@
-body {
+html {
     background: rgb(109,0,255);
     background: -moz-linear-gradient(0deg, rgba(109,0,255,1) 0%, rgba(167,255,196,1) 100%);
     background: -webkit-linear-gradient(0deg, rgba(109,0,255,1) 0%, rgba(167,255,196,1) 100%);
     background: linear-gradient(0deg, rgba(109,0,255,1) 0%, rgba(167,255,196,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#6d00ff",endColorstr="#a7ffc4",GradientType=1);
+}
+body {
     color: black;
     margin: 60px 120px;
     width: 70%;
@@ -21,14 +23,13 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #CF5338;
-    background: yellow;
 }
 a:hover {
     text-decoration: underline;
-    background: hotpink;
+    background: yellow;
 }
 a:active {
-    background: hotpink;
+    background: yellow;
 }
 p2 {
     font-size: 2em;
