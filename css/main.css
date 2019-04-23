@@ -22,10 +22,12 @@ a:hover {
 h1 {
     font-size: 2em;
     font-family:'Helvetica';
+    line-height: 1.4em;
 }
 h2 {
     font-size: 1.5em;
     font-family:'Helvetica';
+     line-height: 1.4em;
 }
 p {
     font-size: 1em;
