@@ -57,10 +57,10 @@ img {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-     margin: 20px auto 40px; 
+    margin: 20px auto 40px; 
     font-size: .8em;
-      font-family:'Helvetica';
-     color: #6B6DFA;
+    font-family:'Helvetica';
+    color: blue;
 }
 ul.posts { 
     margin: 20px auto 40px; 
