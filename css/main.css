@@ -21,9 +21,14 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #CF5338;
+    background: yellow;
 }
 a:hover {
     text-decoration: underline;
+    background: hotpink;
+}
+a:active {
+    background: hotpink;
 }
 p2 {
     font-size: 2em;
@@ -40,7 +45,7 @@ p {
     font-family:'Helvetica';
     line-height: 1.4em;
     width: 50%;
-    color: #333;
+    color: black;
 }
 img {
   width: auto ;
@@ -55,13 +60,10 @@ footer {
       font-family:'Helvetica';
      color: #6B6DFA;
 }
-
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
-
 ul.posts li {
     list-style: none;
 }
-
