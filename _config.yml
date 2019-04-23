@@ -1,2 +1,4 @@
 name: "conor gillies"
 markdown: kramdown
+plugins:
+  - jekyll-seo-tag
