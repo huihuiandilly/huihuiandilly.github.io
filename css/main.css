@@ -51,6 +51,8 @@ img {
   height: auto;
   height: auto;
 }
+audio { 
+   width: 100%; }
 footer {
     border-top: 1px solid #d5d5d5;
     margin: 20px auto 40px; 
