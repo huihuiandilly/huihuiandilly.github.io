@@ -33,15 +33,15 @@ a:active {
     background: yellow;
 }
 p2 {
-    font-size: 2em;
+    font-size: 3em;
     line-height: 1.4em;
 }
 p3 {
-    font-size: 1.5em;
+    font-size: 2.5em;
      line-height: 1.4em;
 }
 p {
-    font-size: 1em;
+    font-size: 2em;
     line-height: 1.4em;
     color: black;
 }
@@ -62,7 +62,7 @@ footer {
 }
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 2em;
 }
 ul.posts li {
     list-style: none;
