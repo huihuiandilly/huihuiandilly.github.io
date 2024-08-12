@@ -9,6 +9,7 @@ body {
     max-width: 800px;
     display: table-cell;
     vertical-align: middle;
+    text-align: justify;
 }
 nav ul, footer ul {
     font-family: "Times New Roman", Times, serif;
@@ -53,6 +54,10 @@ img {
   max-width: 100% ;
   height: auto;
   height: auto;
+}
+img.profile {
+    margin-left: .3em;
+    margin-bottom: .3em;
 }
 audio { 
    width: 100%; }
