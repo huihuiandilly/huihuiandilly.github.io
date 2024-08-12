@@ -1,11 +1,14 @@
 html {
-    height: 100%;
     background: beige;
+    display: table;
+    margin: auto;
 }
 body {
     color: black;
     width: 100%;
     max-width: 800px;
+    display: table-cell;
+    vertical-align: middle;
 }
 nav ul, footer ul {
     font-family: "Times New Roman", Times, serif;
