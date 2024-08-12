@@ -9,7 +9,6 @@ body {
     max-width: 800px;
     display: table-cell;
     vertical-align: middle;
-    text-align: justify;
     line-height: 165%;
 }
 nav ul, footer ul {
@@ -49,6 +48,7 @@ p {
     color: black;
     margin-top: .3em;
     margin-bottom: .3em;
+    text-align: justify;
 }
 img {
   width: auto ;
