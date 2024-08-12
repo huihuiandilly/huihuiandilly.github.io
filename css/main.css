@@ -10,6 +10,7 @@ body {
     display: table-cell;
     vertical-align: middle;
     text-align: justify;
+    line-height: 165%;
 }
 nav ul, footer ul {
     font-family: "Times New Roman", Times, serif;
