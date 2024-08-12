@@ -4,7 +4,6 @@ html {
 }
 body {
     color: black;
-    margin: 60px 120px;
     width: 100%;
     max-width: 800px;
 }
@@ -32,19 +31,15 @@ a:active {
 }
 p2 {
     font-size: 2em;
-    font-family:'Helvetica';
     line-height: 1.4em;
 }
 p3 {
     font-size: 1.5em;
-    font-family:'Helvetica';
      line-height: 1.4em;
 }
 p {
     font-size: 1em;
-    font-family:'Helvetica';
     line-height: 1.4em;
-    width: 50%;
     color: black;
 }
 img {
