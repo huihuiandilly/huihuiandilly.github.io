@@ -59,6 +59,8 @@ img {
 img.profile {
     margin-left: .5em;
     margin-bottom: .5em;
+    width: 40%;
+    max-width: 232px;
 }
 audio { 
    width: 100%; }
