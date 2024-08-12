@@ -33,14 +33,15 @@ a:active {
     background: yellow;
 }
 p2 {
-    font-size: 2.6em;
+    font-size: 2.4em;
 }
 p3 {
-    font-size: 2.2em;
+    font-size: 2.1em;
 }
 p {
-    font-size: 1.5em;
+    font-size: 1.4em;
     color: black;
+    margin: 0;
 }
 img {
   width: auto ;
