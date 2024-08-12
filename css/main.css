@@ -50,7 +50,7 @@ p {
     font-size: 1.4em;
     color: black;
     margin-top: 0;
-    margin-bottom: .3em;
+    margin-bottom: 1em;
     text-align: justify;
 }
 img {
@@ -60,8 +60,8 @@ img {
   height: auto;
 }
 img.profile {
-    margin-left: .5em;
-    margin-bottom: .5em;
+    margin-left: 1em;
+    margin-bottom: .3em;
     width: 40%;
     max-width: 232px;
 }
