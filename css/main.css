@@ -69,6 +69,7 @@ img.profile {
 audio { 
     width: 100%; 
     display: block;
+    padding-bottom: .5em;
 }
 footer {
     border-top: 1px solid #d5d5d5;
